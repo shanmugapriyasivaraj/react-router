@@ -1,0 +1,15 @@
+* {
+  text-decoration: none;
+}
+
+.reg-form {
+  height: 100px;
+  width: 350px;
+  color: #0c0c0c;
+  margin-left: 100px;
+}
+.container {
+  height: 590px;
+  background: rgb(180, 142, 164);
+  width: 500px;
+}
